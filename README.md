@@ -16,7 +16,7 @@ I am a Computer Science graduate starting a career in data and analytics. Instea
 ## Dataset
 
 - **Name:** job_postings_flat.csv
-- **Source:** [add the link to where you downloaded the dataset]
+- **Source:**  https://drive.google.com/file/d/1xiNSeNRKiuTrCDmJbDo3ukom47HaBeQj/view?usp=drive_link
 - **Size:** 478,895 job postings, 17 columns
 - **Period:** 1 January 2024 to 31 December 2024
 - **Coverage:** 161 countries and 10 job categories (for example Data Analyst, Data Engineer, Data Scientist, Business Analyst and Machine Learning Engineer)
@@ -83,4 +83,4 @@ A one-page dashboard with a bar chart of the most advertised data roles, a map o
 ## Contact
 
 **Sarah Appiah (Kukua)**
-[LinkedIn link] | [Portfolio website link] | [Email]
+LinkedIn:linkedin.com/in/sarah-appiah-580881266 | Portfolio website link:https://sarah-appiah-portfolio.netlify.app | Email:sarah.n.appiah@gmail.com
